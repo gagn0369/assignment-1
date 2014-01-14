@@ -1,0 +1,54 @@
+/* 
+	Comments are in these things
+	General CSS For Exercise 1
+*/
+
+body{
+	background-color: #320318;
+	color: #ffffff;
+}
+
+blockquote{
+	background-color: #941751;
+	padding: 3em;
+	width: 25em;
+	height: 10em;
+	margin: 10em auto;
+	border:2px solid;
+	border-radius:25px;
+	border-color:#941751;
+}
+
+.quote{
+	font-family: Arial, sans-serif;
+	font-size: 6em;
+	line-height: 0;
+	color: #b42b5c;
+}
+
+.left{
+	margin-left:-35px;
+	position:relative;
+	top:25px;
+}
+
+.right{
+	text-align: right;
+	margin-right: -25px;
+	position:relative;
+	top:25px;
+}
+
+p{
+	font-family: Georgia, "Times New Roman", serif;
+	margin: 0;
+}
+
+cite{
+	margin-top: 3em;
+	display: block;
+	color: #df85a8;
+	font-family: Arial, sans-serif;
+	text-align: right;
+	font-style: normal;
+}
